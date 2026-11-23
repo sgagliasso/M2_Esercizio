@@ -1,0 +1,5 @@
+th, td {
+  border: 1px solid #ddd; /* Bordi grigi chiari */
+  padding: 10px 15px;     /* Spaziatura interna */
+  text-align: left;       /* Testo allineato a sinistra */
+}
